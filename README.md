@@ -48,7 +48,8 @@
 jupyter notebook
 or
 python src/train_model.py
-📌 Future Work
+
+## 📌 Future Work
 
 Deploy with Flask/Django
 
@@ -56,12 +57,12 @@ Implement Deep Learning models (LSTM/Autoencoders)
 
 Real-time fraud detection pipeline
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to fork the repo and create pull requests.
 
-📝 License
+## 📝 License
 
 This project is licensed under the MIT License.
